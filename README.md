@@ -1,3 +1,4 @@
+![logo](https://github.com/Sangma83/Poushali-Sangma/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Poushali Sangma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
